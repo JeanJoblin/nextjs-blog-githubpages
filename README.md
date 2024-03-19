@@ -1,4 +1,4 @@
-Problem: Github Action to deploy Next.js project to Github pages is not working correctly.
+Problem: Github Action to deploy Next.js project to Github pages is exiting with error code 1 during build job.
 
 Solution: Create or update next.config.js to contain output: 'export'
 i.e.
