@@ -12,6 +12,9 @@
 /.next/
 /out/
 
+#notes
+/notes
+
 # production
 /build
 
